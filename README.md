@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MAImranali
 - 🔭 I’m currently working on Data Engineering
-- 🌱 I’m currently learning Python and Data Analytics
+- 🌱 I’m currently learning Python and Data Engineering and Analytics
 - 👯 I’m looking to collaborate on Advanced Python learning 
 - 🤔 I’m looking for help with Data Engineering
 - 💬 Ask me about Python
